@@ -14,7 +14,7 @@ import { ProductModule } from './modules/product/product.module';
       host: 'localhost',
       port: 5432,
       username: 'postgres',
-      password: '1001',
+      password: '101',
       database: 'pos',
       entities: [ProductEntity,CustomerEntity],
       synchronize: true,
